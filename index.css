@@ -1,6 +1,12 @@
-/* CSS goes here */
-h1 {
-  font-family:sans-serif;
-  background-color: blue;
-  color: white;
+body {
+  background-color:gray;
+}
+#firstlist {
+  font-family: sans-serif;
+  color: blue;
+  font-weight:10px;
+}
+.bikes {
+  color: green;
+  background-color:white;
 }
